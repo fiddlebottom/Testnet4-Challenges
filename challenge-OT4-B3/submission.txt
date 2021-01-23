@@ -1,5 +1,5 @@
-nodeid:<replace this text with the nodeid>
+nodeid:aac92690ef4cf90b
 bakerid:<replace this text with the bakerid>
-accountaddress:<replace this text with the account address>
-blockhash_addbaker:<replace this text with the blockhash of the block with the add baker transaction in it>
+accountaddress:3DrHWK9Fz7MkhT1J624Rb2dEJsuspRVjeStoEsHVBy8G8znoZD
+blockhash_addbaker:9e8b098f
 blockhash_removebaker:<replace this text with the blockhash of the block with the remove baker transaction in it>
